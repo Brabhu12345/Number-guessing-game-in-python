@@ -1,4 +1,4 @@
-#welcome
+
 #hi
 import random
 name = input("pls enter your name:")
